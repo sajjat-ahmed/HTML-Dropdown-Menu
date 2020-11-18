@@ -1,6 +1,5 @@
 # HTML-Dropdown-Menu
 HTML Dropdown Menu with SCSS
 
-``sh
+dropowown menu here
 https://sajjat-ahmed.github.io/HTML-Dropdown-Menu/index.html
-``
